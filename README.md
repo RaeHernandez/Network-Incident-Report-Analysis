@@ -17,9 +17,8 @@ This report analyzes a Distributed Denial of Service (DDoS) attack that impacted
 - Incident response documentation  
 
 ## 📄 Files
-- `incident-report.pdf` — Full report  
-- `incident-report-template.docx` — Completed analysis template  
-- `supporting-materials/` — References and supporting docs
+- [Scenario Description](./scenario.md) — Context and background of the network incident  
+- [Incident Report Analysis](./incident-report-analysis.pdf) — Full analysis following the NIST Cybersecurity Framework  
 
 ---
 
